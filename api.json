@@ -1,0 +1,9 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "untuk mencari gambar." },
+    { "id": "2", "title": "untuk memudahkan mendownload gambar aestetyc." },
+    { "id": "3", "title": "selamat mencari gambar sesuai keinginan." }
+  ]
+}
